@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Sistema.Datos/Sistema.Datos.csproj" Id="43349dd0-c52b-4766-926c-9d17f1b57df1" />
+  <Project Path="Sistema.Entidad/Sistema.Entidad.csproj" Id="f2d100b6-91e7-4c6c-b26d-8a6bdbfbdf36" />
+  <Project Path="Sistema.Negocios/Sistema.Negocios.csproj" Id="7c0f0994-1ab9-4347-8df6-05cfca8603cf" />
+  <Project Path="Sistema.Presentacion/Sistema.Presentacion.csproj" Id="c2a9c1d7-bc19-48a6-8ab1-59a4ad7f9bc4" />
+</Solution>
